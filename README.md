@@ -1,5 +1,5 @@
 ![Header](images/header.png)
-### Education Background
+# Education Background
 **2013 - 2017**丨SJTU · Master Degree · Software Engineering  
 My major is software project management, and get As in almost all courses. Last year I also take part in the practice project called 'CNCrowd' which is a real start-up team.
 
