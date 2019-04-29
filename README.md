@@ -1,4 +1,5 @@
 <img src="images/resume-header.png" width="100%"/>
+
 # Work Experiences
 #### 2017 - Now丨DiningCity · Senior Front-end Developer
 The reason why I chose a position of front-end developer is  I’ve been a product manager for 4 years, I still have great enthusiasm for the product implementation.
