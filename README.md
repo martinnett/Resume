@@ -8,7 +8,7 @@ I have tried many new technologies and methods in the last two years. I have mas
 
 As the only front-end developer in this company, I’ve completed several front-end products excellently.
 
-### 2016.8 - 2017.2 丨 CNCrowd · Product Manager
+### 2016.9 - 2017.2 丨 CNCrowd · Product Manager
 
 My graduate tutor and his partner set up a startup to do internet crowdfunding, I was persuaded to give up the work of SMW and was appointed as the product manager and technical partner of the company.
 
