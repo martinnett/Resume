@@ -1,24 +1,24 @@
 <img src="images/resume-header.png" width="100%"/>
 
 # Work Experiences
-### 2017 - Now丨DiningCity · Senior Front-end Developer
+### 2017.3 - Now丨DiningCity · Senior Front-end Developer
 The reason why I chose a position of front-end developer is  I’ve been a product manager for 4 years, I still have great enthusiasm for the product implementation.
 
 I have tried many new technologies and methods in the last two years. I have mastered the development of WeChat Mini Program, mastered many JavaScript frameworks, understood the correct method of front-end componentization, and started to write open source projects.
 
 As the only front-end developer in this company, I’ve completed several front-end products excellently.
 
-### 2016 - 2017 丨 CNCrowd · Product Manager
+### 2016.8 - 2017.2 丨 CNCrowd · Product Manager
 
 My graduate tutor and his partner set up a startup to do internet crowdfunding, I was persuaded to give up the work of SMW and was appointed as the product manager and technical partner of the company.
 
-### 2013 - 2016 丨 SMW · Product Manager
+### 2013.9 - 2016.8 丨 SMW · Product Manager
 
 Just as I was leaving my job, one of my clients wanted me to work for his company as a product manager and I became one of the co-partners in that company. That company was committed to providing digital media and advertising services to the medical industry.
 
 In 3 years, I have done more than a dozen products in that company, and the high-intensity work has greatly improved my ability of product management and project management.
 
-### 2010 - 2013 丨 KYEE · Product R&D
+### 2010.10 - 2013.9 丨 KYEE · Product R&D
 
 I worked in KYEE for about 3 years, main charge is product resourch & develop. All product is based on C# making mobile healthcare system. I also do some implement job at that time. About 10 hospitals systems had been passed and accepted include PDA, electric card for patients etc.
 
