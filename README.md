@@ -66,4 +66,24 @@ I’m a steady, diligent, patience, finally duty worker. I’m a tech geek, love
 
 I’d like to contribute in some OpenSource project. I enjoy it. That is why I need a more better platform to improve my self. I think it’s important and challenging, but I believe that I can do it better!
 
-<img src="images/resume-footer.png" width="100%"/>
+# Knowledge & skills
+
+* 9 years of working experience, 7 years of front-end development experience, 2 years back-end development experience.
+
+* Development Language: JavaScript, Ruby, Python.
+
+* Ability to develop hybird apps independently, master AngularJS, Ionic framework and Wechat mini program.
+
+* Be familiar with Grunt, Babel, Webpack etc for automated packaging.
+
+* Be familiar with Mocha, Chai, Sinon for automated testing.
+
+* Skillful use of Git, Atom, VS Code, XCode, Android Studio, Charles etc.
+
+* Familiar with database MySQL, Postgres, CouchDB, Linux system and commend line usage
+
+* Familiar with deployment like Capistrano, Travis-CI etc.
+
+* Familiar with design tools like Sketch, Adobe XD.
+
+* Familiar with project management tools like GitLab, Trello, Slack etc.
