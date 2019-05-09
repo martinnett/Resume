@@ -2,27 +2,48 @@
 
 # Work Experiences
 ### 2017.3 - Now丨DiningCity · Senior Front-end Developer
+
+100% Coding
+
 The reason why I chose a position of front-end developer is  I’ve been a product manager for 4 years, I still have great enthusiasm for the product implementation.
 
 I have tried many new technologies and methods in the last two years. I have mastered the development of WeChat Mini Program, mastered many JavaScript frameworks, understood the correct method of front-end componentization, and started to write open source projects.
 
 As the only front-end developer in this company, I’ve completed several front-end products excellently.
 
-### 2016.9 - 2017.2 丨 CNCrowd · Product Manager
+- Refurbished DC assistant with Angular best practices
+- Built frontend development for most of DiningCity's website
+- Built a unified restaurant reservation form for diningcity.cn / dinincity.hk & event websites
+- Worked closely with ruby on rails programmers to integrate the API needed for mobile development
+- Built Wechat mini-program for China restaurant week 2018.
+- Rebuild full wechat mini program for DiningCity.
+- Work with teammates(4 locals and 2 foriegners) using GitLab
+
+### 2016.9 - 2017.2 丨 CNCrowd · Technical Partner
+
+80% Coding / 20% Make product
 
 My graduate tutor and his partner set up a startup to do internet crowdfunding, I was persuaded to give up the work of SMW and was appointed as the product manager and technical partner of the company.
 
-### 2013.9 - 2016.8 丨 SMW · Product Manager
+### 2013.9 - 2016.8 丨 SMW · Front-end Developer & Product Manager
+
+60% Coding / 40% Make product
 
 Just as I was leaving my job, one of my clients wanted me to work for his company as a product manager and I became one of the co-partners in that company. That company was committed to providing digital media and advertising services to the medical industry.
 
 In 3 years, I have done more than a dozen products in that company, and the high-intensity work has greatly improved my ability of product management and project management.
 
-### 2010.10 - 2013.9 丨 KYEE · Product R&D
+### 2010.10 - 2013.9 丨 KYEE · Software Developer
+
+100% Coding
 
 I worked in KYEE for about 3 years, main charge is product resourch & develop. All product is based on C# making mobile healthcare system. I also do some implement job at that time. About 10 hospitals systems had been passed and accepted include PDA, electric card for patients etc.
 
 Although it was a very painful 996 experience, I did lay a solid foundation for my career during that time.
+
+- Revamped the mobile clinical nursing system based on C#
+- First proposed and developed mobile development based on Html5
+- Implemented the mobile nursing system in more than 10 Grade III-A hospital
 
 # Projects & Works
 
