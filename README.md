@@ -5,8 +5,6 @@
 
 100% Coding
 
-The reason why I chose a position of front-end developer is  I’ve been a product manager for 4 years, I still have great enthusiasm for the product implementation.
-
 I have tried many new technologies and methods in the last two years. I have mastered the development of WeChat Mini Program, mastered many JavaScript frameworks, understood the correct method of front-end componentization, and started to write open source projects.
 
 As the only front-end developer in this company, I’ve completed several front-end products excellently.
