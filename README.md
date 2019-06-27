@@ -21,7 +21,7 @@ As the only front-end developer in this company, I’ve completed several front-
 
 80% Coding / 20% Make product
 
-My graduate tutor and his partner set up a startup to do internet crowdfunding, I was persuaded to give up the work of SMW and was appointed as the product manager and technical partner of the company.
+My graduate tutor and his partner set up a startup to do internet crowdfunding, I was persuaded to give up the work of SMW and was appointed as a senior front-end developer and technical partner of the company.
 
 ### 2013.9 - 2016.8 丨 SMW · Front-end Developer & Product Manager
 
