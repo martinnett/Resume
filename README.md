@@ -15,6 +15,7 @@ As the only front-end developer in this company, I’ve completed several front-
 - Worked closely with ruby on rails programmers to integrate the API needed for mobile development
 - Built Wechat mini-program for China restaurant week 2018.
 - Rebuild full wechat mini program for DiningCity.
+- Rebuild full DC Assistant with Ionic 4.
 - Work with teammates(4 locals and 2 foriegners) using GitLab
 
 ### 2016.9 - 2017.2 丨 CNCrowd · Technical Partner
