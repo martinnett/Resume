@@ -19,11 +19,14 @@ As the only front-end developer in this company, I’ve completed several front-
 - Rebuild full wechat mini program for DiningCity.
 - Work with teammates(4 locals and 2 foriegners) using GitLab
 
-### 2016.9 - 2017.2 丨 CNCrowd · Technical Partner
+### 2016.9 - 2017.2 丨 CNCrowd · Full-stack Developer && Technical Partner
 
 80% Coding / 20% Make product
 
 My graduate tutor and his partner set up a startup to do internet crowdfunding, I was persuaded to give up the work of SMW and was appointed as the product manager and technical partner of the company.
+
+- Did front-end part of CNCrowd website which is a Java Project.
+- Built mobile website for CNCrowd using AngularJS.
 
 ### 2013.9 - 2016.8 丨 SMW · Front-end Developer & Product Manager
 
@@ -33,13 +36,14 @@ Just as I was leaving my job, one of my clients wanted me to work for his compan
 
 In 3 years, I have done more than a dozen products in that company, and the high-intensity work has greatly improved my ability of product management and project management.
 
+- Using ruby on rails built SMW Event management system
+- Built MedClass website using
+
 ### 2010.10 - 2013.9 丨 KYEE · Software Developer
 
 100% Coding
 
 I worked in KYEE for about 3 years, main charge is product resourch & develop. All product is based on C# making mobile healthcare system. I also do some implement job at that time. About 10 hospitals systems had been passed and accepted include PDA, electric card for patients etc.
-
-Although it was a very painful 996 experience, I did lay a solid foundation for my career during that time.
 
 - Revamped the mobile clinical nursing system based on C#
 - First proposed and developed mobile development based on Html5
