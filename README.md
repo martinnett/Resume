@@ -5,8 +5,6 @@
 
 100% Coding
 
-The reason why I chose a position of front-end developer is  I’ve been a product manager for 4 years, I still have great enthusiasm for the product implementation.
-
 I have tried many new technologies and methods in the last two years. I have mastered the development of WeChat Mini Program, mastered many JavaScript frameworks, understood the correct method of front-end componentization, and started to write open source projects.
 
 As the only front-end developer in this company, I’ve completed several front-end products excellently.
@@ -17,13 +15,14 @@ As the only front-end developer in this company, I’ve completed several front-
 - Worked closely with ruby on rails programmers to integrate the API needed for mobile development
 - Built Wechat mini-program for China restaurant week 2018.
 - Rebuild full wechat mini program for DiningCity.
+- Rebuild full DC Assistant with Ionic 4.
 - Work with teammates(4 locals and 2 foriegners) using GitLab
 
 ### 2016.9 - 2017.2 丨 CNCrowd · Full-stack Developer && Technical Partner
 
 80% Coding / 20% Make product
 
-My graduate tutor and his partner set up a startup to do internet crowdfunding, I was persuaded to give up the work of SMW and was appointed as the product manager and technical partner of the company.
+My graduate tutor and his partner set up a startup to do internet crowdfunding, I was persuaded to give up the work of SMW and was appointed as a senior front-end developer and technical partner of the company.
 
 - Did front-end part of CNCrowd website which is a Java Project.
 - Built mobile website for CNCrowd using AngularJS.
