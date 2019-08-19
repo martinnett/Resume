@@ -1,47 +1,45 @@
 <img src="images/resume-header.png" width="100%"/>
 
-# Work Experiences
+# 工作经历
 
-### 2017.3 - Now 丨 DiningCity · Senior Front-end Developer
+### 2017.3 - 至今 丨 DiningCity · 高级前端开发工程师
 
-100% Coding
+100% 编码
 
-I have tried many emerging technologies of frontend in the last two years. I have mastered the development of WeChat Mini Program, mastered many JavaScript frameworks, understood the correct method of front-end componentization, and started to write open source projects.
+入职两年多来我尝试了多种前端领域的新技术，我目前精通前端开发，包括但不限于 Angular, React, Vue 框架开发、微信小程序开发以及基础 JavaScript 组件开发，我充分了解前端标准化及组件化方法，并开发多款开源应用。
 
-As the only front-end developer in this company, I’ve completed several front-end products excellently.
+作为公司唯一的前端开发工程师，我出色地完成了多个前端产品：
 
-- Refurbished DC assistant with Angular best practices
-- Built frontend development for most of DiningCity's website
-- Built a unified restaurant reservation form for diningcity.cn / dinincity.hk & event websites
-- Worked closely with ruby on rails programmers to integrate the API needed for mobile development
-- Built Wechat mini-program for China restaurant week 2018.
-- Using Wepy framework to rebuild full wechat mini program for DiningCity.
-- Rebuild full DC Assistant with Ionic 4.
-- Work with teammates(4 locals and 2 foriegners) using GitLab
-- Using Vue framework to build internal operations system.
+- 使用 Angular 1 最佳实践重构了 DC Assistant
+- 完成了 DiningCity 网站的前端部分
+- 使用 Angular 4 开发了统一的预订控件，支持嵌入本站或被其他网站调用
+- 与 Ruby 后端工程师紧密合作，接入前端应用所需的 API 接口
+- 2018 年完成了 DiningCity 微信小程序端的所有开发
+- 使用 Wepy 框架重构了微信小程序
+- 使用 Ionic 4 框架重构了 DC Assistant
+- 使用 GitLab 和同事（4 位本地同事与 2 位外籍同事）协同工作
+- 使用 Vue 框架完成了内部的运营管理后台
 
-### 2016.9 - 2017.2 丨 CNCrowd · Technical Partner
+### 2016.9 - 2017.2 丨 中筹网金 · 技术合伙人
 
-80% Coding / 20% Make product
+80% 编码 / 20% 产品
 
-My graduate tutor and his partner set up a startup to do internet crowdfunding, I was persuaded to give up the work of SMW and was appointed as a senior front-end developer and technical partner of the company.
+我的毕业导师和他的合伙人拉我合伙参加他们的互联网金融项目，于是我放弃了学位及在 SMW 的工作并作为技术合伙人的角色加入他们的公司。
 
-- Used Ionic framework to build mobile app.
-- Used LeanCloud service as backend, used Angular to build website.
+- 使用 Ionic framework 开发手机端应用
+- 使用 LeanCloud 云服务作为后端，使用 Angular 开发前端网站
 
-### 2013.9 - 2016.8 丨 SMW Group · Front-end Developer & Product Manager
+### 2013.9 - 2016.8 丨 SMW 集团 · 前端开发工程师 / 产品经理
 
-60% Coding / 40% Make product
+60% 编码 / 40% 产品
 
-Just as I was leaving my job, one of my clients wanted me to work for his company as a product manager and I became one of the co-partners in that company. That company was committed to providing digital media and advertising services to the medical industry.
-
-In 3 years, I have done more than a dozen products in that company, and the high-intensity work has greatly improved my ability of product management and project management.
+由于我的离职，我的一个客户希望我到他所在的公司担任产品经理，后来我作为合伙人之一加入了该公司，该公司致力于为医疗行业提供数字媒体和广告服务。在此工作的 3 年间，我为公司完成了多个产品，高强度地工作让我迅速提升了自己的开发及产品管理能力。
 
 ### 2010.10 - 2013.9 丨 KYEE · Software Developer
 
-100% Coding
+100% 编码
 
-I worked in KYEE for about 3 years, main charge is product resourch & develop. All products are based on C# making mobile healthcare system. I also do some implement job at that time. About 10 hospitals systems had been passed and accepted include PDA, electric card for patients etc.
+我在京颐科技工作了近 3 年，主要负责产品研发。所有产品都是基于 C# 的移动医疗软件。我也经常被调任到实施岗位，参与客户现场开发，完成并验收了 10 余家医院的 PDA，护士站、床头卡等项目。
 
 - Revamped the mobile clinical nursing system based on C#
 - First proposed and developed mobile development based on Html5
