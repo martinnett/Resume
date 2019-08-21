@@ -35,21 +35,24 @@
 
 由于我的离职，我的一个客户希望我到他所在的公司担任产品经理，后来我作为合伙人之一加入了该公司，该公司致力于为医疗行业提供数字媒体和广告服务。在此工作的 3 年间，我为公司完成了多个产品，高强度地工作让我迅速提升了自己的开发及产品管理能力。
 
-### 2010.10 - 2013.9 丨 KYEE · Software Developer
+- 使用 Ruby on rails 开发了 SMW 活动管理系统
+- 使用 Ruby on rails 开发了医课网
+
+### 2010.10 - 2013.9 丨 京颐科技 · 软件工程师
 
 100% 编码
 
-我在京颐科技工作了近 3 年，主要负责产品研发。所有产品都是基于 C# 的移动医疗软件。我也经常被调任到实施岗位，参与客户现场开发，完成并验收了 10 余家医院的 PDA，护士站、床头卡等项目。
+我在京颐科技工作了近 3 年，主要负责产品研发。所有产品都是基于 C# 的移动医疗软件。我也经常被调任到实施岗位，参与客户现场开发，完成并验收了 10 余家三甲医院的 PDA，护士站、床头卡等项目。
 
-- Revamped the mobile clinical nursing system based on C#
-- First proposed and developed mobile development based on Html5
-- Implemented the mobile nursing system in more than 10 Grade III-A hospital
+- 修缮了基于 C# 的移动护士站系统
+- 首先提出并开发了基于 Html5 的移动应用开发
+- 在 10 余家三甲医院实施了移动护士站系统
 
-# Projects & Works
+# 项目作品
 
-### DC Assistant · Ionic 4 app (iOS & Android)
+### 餐厅助手 DC Assistant · Ionic 4 应用 (iOS & Android)
 
-Due to the constant upgrading of Angular, the **Ionic framework** has been updated, and the latest version has reached 4. I quickly taught myself the new framework and made our new app DC Assistant which helps restaurants manage their reservations easier.
+由于 Angular 版本的不断升级，Ionic 框架也已更新，最新版本已达到 4。我很快就自学了新框架并制作了新的应用程序 DC Assistant，帮助餐馆更轻松地管理他们的预订。
 
 ### OpenSource · GitLab Go
 

@@ -20,7 +20,7 @@ As the only front-end developer in this company, I’ve completed several front-
 - Work with teammates(4 locals and 2 foriegners) using GitLab
 - Using Vue framework to build internal operations system.
 
-### 2016.9 - 2017.2 丨 CNCrowd · Technical Partner
+### 2016.9 - 2017.2 丨 CNCrowd · Full-stack Developer && Technical Partner
 
 80% Coding / 20% Make product
 
@@ -36,6 +36,9 @@ My graduate tutor and his partner set up a startup to do internet crowdfunding, 
 Just as I was leaving my job, one of my clients wanted me to work for his company as a product manager and I became one of the co-partners in that company. That company was committed to providing digital media and advertising services to the medical industry.
 
 In 3 years, I have done more than a dozen products in that company, and the high-intensity work has greatly improved my ability of product management and project management.
+
+- Using ruby on rails built SMW Event management system
+- Built MedClass website using ruby on rails
 
 ### 2010.10 - 2013.9 丨 KYEE · Software Developer
 
