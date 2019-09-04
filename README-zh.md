@@ -54,64 +54,64 @@
 
 由于 Angular 版本的不断升级，Ionic 框架也已更新，最新版本已达到 4。我很快就自学了新框架并制作了新的应用程序 DC Assistant，帮助餐馆更轻松地管理他们的预订。
 
-### OpenSource · GitLab Go
+### 开源项目 · GitLab Go
 
-Since I’ve mastered wechat mini program and we use **GitLab** to be our project management system, then I decide to make a GitLab client to make work easier. I used my development experience to make the functions of mini programs more stable, while the code is less. I opened-source my code and gave lectures in the hope of helping more people who love developing small programs to find development skills asap.
+由于掌握了微信小程序的开发，并且我们使用 **GitLab** 作为项目管理工具，因此我决定开发一个 GitLab 客户端来使工作变得更容易。我利用开发经验尽可能用越少的代码完成越健壮的功能。我开源了所有代码，寄希望于帮助更多热爱开发小程序的人。
 
-### DiningCity · Wechat mini program
+### DiningCity · 微信小程序
 
-I taught myself the WeChat mini program at the end of 2017 and quickly mastered the development method. Unexpectedly, two months later, the company’s weekly meeting decided to do the **WeChat mini program**, I quickly completed the development.
+2017年底，我通过自学快速掌握了微信小程序的开发方法，并帮助公司快速完成了 DiningCity 官方微信小程序的开发。
 
-### Healthcare Service · Hybird App
+### 健康管理软件 · 混合应用开发
 
-The healthcare service is an App for our healthcare area customer internal use. The main functions of the App is help them to collecting data, reserve service, register customer and statics etc. Considering the time & cost, we decide to use **hybird** way to build the App. the front-end use **Angular** and the back-end provide APIs by rails. Database use **MySQL & CouchDB**. I also learned Best Practice of Angular from Johnpapa.
+这个健康服务工具是供健康机构客户内部使用的 App，它的主要功能是帮助机构收集客户数据，提供预订服务，客户注册以及数据统计等。考虑到时间周期与成本，我决定使用 **混合** 开发方式完成 App。其中前端使用了 **Angular** 后端使用 **Rails**。数据库采用 **MySQL 和 CouchDB**。我也借鉴了 Johnpapa 的 Angular 最佳实践。
 
-### OpenSource · RubyChina App
+### 开源项目 · RubyChina App
 
-I took part in **RubyConf** 2015 in Shenzhen. The speaker suggested that our community need a App for smart phones in the morning. I try to start make a demo in the afternoon. I finished demo using **Ionic framework** during the whole night. When I showed it to that speaker at the next day. He was very interested in it and he hope that I can move on. After that, in the coming next 2 months we talked & improved it together on **GitHub**. Finally, it was launched in 2016.2.
+我参加了2015年在深圳举办的 **RubyConf**。在当天早晨，主办方的讲者建议我们的社区需要做一款移动设备的 App 来提高社区的活跃度。我在当天下午便开始制作 demo，并利用整晚的时间完成了基于 Ionic 框架的 demo。当我第二天将 demo 拿给讲者看的时候，他非常感兴趣，并希望由我继续完善它。在此后的2个月时间里，我们共同讨论和完善了这个 App，并在 GitHub 上开源了项目，这款 App 在 2016年2月上架了。
 
-### Web crawlers · Python
+### 网络爬虫 · Python
 
-I like to analyze data, so I taught myself **python** and **web crawlers**. I fetched many popular websites and have databases of these big websites.
+我喜欢分析数据，因此我自学了 **Python** 和 **网络爬虫**，我爬取了许多主流网站的数据。
 
-# Education Background
+# 教育背景
 
-### 2013 - 2017 丨 SJTU · Master Degree · Software Engineering (Dropped out)
+### 2013 - 2017 丨 上海交大 · 在职硕士 · 软件工程 (辍学)
 
-In 2013, I was admitted to the on-the-job master of **Shanghai Jiaotong University**. My major is software project management, and get As in almost all courses. In last year I took part in a project called CNCrowd which is a real start-up team, then I had to drop out.
+2013年，我被上海交大录取在职研究生。我主修的是软件工程项目管理专业，所有课程几乎拿了全A。但在最后一年我因加入了一个创业团队而不得不辍学了。
 
-### 2006 - 2010 丨 SIT · Bachelor’s Degree · Computer Science & Technology
+### 2006 - 2010 丨 SIT · 学士学位 · 计算机科学与技术
 
-I’ve learned C++ Java & SQL in my collage. I built a excellent courses website for our collage. Won the second-class Scholarship for many times. My graduation paper is collage-level excellent paper.
+我在大学里学习了 C++ Java 以及 SQL。我为学校完成了一个精品课程的网站开发，也曾多次获得二等奖学金。最后我获得了校级优秀论文奖。
 
-# About Me
+# 关于我
 
-I’m a steady, diligent, patience, finally duty worker. I’m a tech geek, love study new things. I’ve learned Java, C#, Ruby, Angular, Ionic, Python etc. I also like do some simple design job such as Sketch.
+我是一个稳定，聪明，有耐心和有责任心的工作者。我也是一个技术极客，喜欢研究新技术。我学习了 Java C# Ruby Angular Ionic Python 等技术。同时我也喜欢做一些设计方面的工作。
 
-I’d like to contribute in some OpenSource project. I enjoy it. That is why I need a more better platform to improve my self. I think it’s important and challenging, but I believe that I can do it better!
+我非常热衷于参与一些开源项目。那也是为什么我需要一个更好的平台来发挥和提高自己，对我来说那是非常重要的也是具有挑战的，我相信我可以做的更好！
 
-# Knowledge & skills
+# 知识与技能
 
-- 9 years of working experience, 7 years of front-end development experience, 3 years back-end development experience.
+- 9年工作经验，7年前端开发经验，3年后端开发经验。
 
-- Development Language: JavaScript, Ruby, Python.
+- 开发语言：JavaScript， Ruby, Python。
 
-- Ability to develop hybird apps independently, master AngularJS, Ionic framework and Wechat mini program.
+- 能独立完成混合应用开发，掌握 Angular，Ionic 框架以及微信小程序开发。
 
-- Be familiar with React, Vue frameworks.
+- 熟悉 React 和 Vue 开发。
 
-- Be familiar with Grunt, Babel, Webpack etc for automated packaging.
+- 熟悉 Grunt, Webpack 及 Babel 等打包编译工具。
 
-- Be familiar with Mocha, Chai, Sinon for automated testing.
+- 熟悉 Mocha Chai Sinon 等自动化测试工具。
 
-- Know how to write GraphQL API.
+- 了解如何使用 GraphQL 编写 API。
 
-- Skillful use of Git, Atom, VS Code, XCode, Android Studio, Charles etc.
+- 掌握 Git Atom VSCode XCode Android Studio Charles 等工具的使用。
 
-- Familiar with database MySQL, Postgres, CouchDB, Linux system and commend line usage
+- 熟悉 MySQL Postgres CouchDB 数据库，了解 Linux 系统及命令行的使用。
 
-- Familiar with deployment like Capistrano, Travis-CI etc.
+- 熟悉 Capistrano Travis-CI 等部署工具的使用。
 
-- Familiar with design tools like Sketch, Adobe XD.
+- 熟悉 Sketch Adobe XD 等设计软件的使用。
 
-- Familiar with project management tools like GitLab, Trello, Slack etc.
+- 熟悉 GitLab Trello JIRA Slack 等项目管理工具的使用。
