@@ -2,7 +2,7 @@
 
 # Work Experiences
 
-### 2017.3 - Now 丨 DiningCity · Senior Front-end Developer
+### 2017.3 - 2019.8 丨 DiningCity · Senior Front-end Developer
 
 100% Coding
 
