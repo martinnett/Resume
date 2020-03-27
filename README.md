@@ -20,7 +20,7 @@ As the only front-end developer in this company, I’ve completed several front-
 - Work with teammates(4 locals and 2 foriegners) using GitLab
 - Using Vue framework to build internal operations system.
 
-### 2016.9 - 2017.2 丨 CNCrowd · Full-stack Developer && Technical Partner
+### 2016.9 - 2017.2 丨 CNCrowd · Full-stack Developer & Technical Partner
 
 80% Coding / 20% Make product
 
